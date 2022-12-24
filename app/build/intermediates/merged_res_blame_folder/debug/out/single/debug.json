@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/drawable_ic_hot_activity_default.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/drawable/ic_hot_activity_default.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/drawable_ic_baseline_image_search_24.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/drawable/ic_baseline_image_search_24.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/menu_menu_main.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/layout_view_search_no_result.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/layout/view_search_no_result.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/drawable_ic_baseline_view_grid_24.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/drawable/ic_baseline_view_grid_24.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/layout_fragment_search.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/drawable_ic_baseline_format_list_bulleted_24.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/drawable/ic_baseline_format_list_bulleted_24.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/drawable_bg_search_bar_edittext.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/drawable/bg_search_bar_edittext.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/layout_view_search_history_item.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/layout/view_search_history_item.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/layout_content_main.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/layout_view_search_result.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/layout/view_search_result.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/drawable_ic_baseline_image_24.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/drawable/ic_baseline_image_24.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/drawable_bg_search_history.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/drawable/bg_search_history.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/drawable_bg_search_bar_search_btn.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/drawable/bg_search_bar_search_btn.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/layout_view_search_result_list.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/layout/view_search_result_list.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/drawable_pixabay_logo.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/drawable/pixabay_logo.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/navigation_nav_graph.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/layout_view_search_result_grid.xml.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/layout/view_search_result_grid.xml"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jasonchen.gogolooksearch.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.jasonchen.gogolooksearch.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

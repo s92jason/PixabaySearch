@@ -1,0 +1,111 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jasonchen.gogolooksearch"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] /Users/jasonchen/.gradle/caches/transforms-3/2f31b9f4cdd22cbe81af136a9f8a3e18/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+14        android:name="com.jasonchen.gogolooksearch.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] /Users/jasonchen/.gradle/caches/transforms-3/2f31b9f4cdd22cbe81af136a9f8a3e18/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] /Users/jasonchen/.gradle/caches/transforms-3/2f31b9f4cdd22cbe81af136a9f8a3e18/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.jasonchen.gogolooksearch.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] /Users/jasonchen/.gradle/caches/transforms-3/2f31b9f4cdd22cbe81af136a9f8a3e18/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] /Users/jasonchen/.gradle/caches/transforms-3/2f31b9f4cdd22cbe81af136a9f8a3e18/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:7:5-29:19
+20        android:name="com.jasonchen.gogolooksearch.MyApplication"
+20-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:8:9-38
+21        android:allowBackup="true"
+21-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:9:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0] /Users/jasonchen/.gradle/caches/transforms-3/2f31b9f4cdd22cbe81af136a9f8a3e18/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:10:9-65
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:11:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:12:9-43
+28        android:label="@string/app_name"
+28-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:13:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:14:9-54
+30        android:supportsRtl="true"
+30-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:15:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.GogolookSearch" >
+32-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:16:9-52
+33        <activity
+33-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:18:9-28:20
+34            android:name="com.jasonchen.gogolooksearch.view.ui.MainActivity"
+34-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:19:13-49
+35            android:exported="true"
+35-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:20:13-36
+36            android:label="@string/app_name"
+36-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:21:13-45
+37            android:theme="@style/Theme.GogolookSearch.NoActionBar" >
+37-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:22:13-68
+38            <intent-filter>
+38-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:23:13-27:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:24:17-69
+39-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:24:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:26:17-77
+41-->/Users/jasonchen/AndroidStudioProjects/PixabaySearch/app/src/main/AndroidManifest.xml:26:27-74
+42            </intent-filter>
+43        </activity>
+44
+45        <uses-library
+45-->[androidx.window:window:1.0.0] /Users/jasonchen/.gradle/caches/transforms-3/0ed59978c9232abe592e7c6aa1a5ac8d/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+46            android:name="androidx.window.extensions"
+46-->[androidx.window:window:1.0.0] /Users/jasonchen/.gradle/caches/transforms-3/0ed59978c9232abe592e7c6aa1a5ac8d/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+47            android:required="false" />
+47-->[androidx.window:window:1.0.0] /Users/jasonchen/.gradle/caches/transforms-3/0ed59978c9232abe592e7c6aa1a5ac8d/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+48        <uses-library
+48-->[androidx.window:window:1.0.0] /Users/jasonchen/.gradle/caches/transforms-3/0ed59978c9232abe592e7c6aa1a5ac8d/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+49            android:name="androidx.window.sidecar"
+49-->[androidx.window:window:1.0.0] /Users/jasonchen/.gradle/caches/transforms-3/0ed59978c9232abe592e7c6aa1a5ac8d/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+50            android:required="false" />
+50-->[androidx.window:window:1.0.0] /Users/jasonchen/.gradle/caches/transforms-3/0ed59978c9232abe592e7c6aa1a5ac8d/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+51
+52        <provider
+52-->[androidx.emoji2:emoji2:1.2.0] /Users/jasonchen/.gradle/caches/transforms-3/388ad79f26d114885d7cdc15410c16b7/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+53            android:name="androidx.startup.InitializationProvider"
+53-->[androidx.emoji2:emoji2:1.2.0] /Users/jasonchen/.gradle/caches/transforms-3/388ad79f26d114885d7cdc15410c16b7/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+54            android:authorities="com.jasonchen.gogolooksearch.androidx-startup"
+54-->[androidx.emoji2:emoji2:1.2.0] /Users/jasonchen/.gradle/caches/transforms-3/388ad79f26d114885d7cdc15410c16b7/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+55            android:exported="false" >
+55-->[androidx.emoji2:emoji2:1.2.0] /Users/jasonchen/.gradle/caches/transforms-3/388ad79f26d114885d7cdc15410c16b7/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+56            <meta-data
+56-->[androidx.emoji2:emoji2:1.2.0] /Users/jasonchen/.gradle/caches/transforms-3/388ad79f26d114885d7cdc15410c16b7/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+57-->[androidx.emoji2:emoji2:1.2.0] /Users/jasonchen/.gradle/caches/transforms-3/388ad79f26d114885d7cdc15410c16b7/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+58                android:value="androidx.startup" />
+58-->[androidx.emoji2:emoji2:1.2.0] /Users/jasonchen/.gradle/caches/transforms-3/388ad79f26d114885d7cdc15410c16b7/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+59            <meta-data
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/jasonchen/.gradle/caches/transforms-3/32d6109c37bfd96dc7c5a4a9e0ce1df2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/jasonchen/.gradle/caches/transforms-3/32d6109c37bfd96dc7c5a4a9e0ce1df2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+61                android:value="androidx.startup" />
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/jasonchen/.gradle/caches/transforms-3/32d6109c37bfd96dc7c5a4a9e0ce1df2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+62        </provider>
+63    </application>
+64
+65</manifest>
